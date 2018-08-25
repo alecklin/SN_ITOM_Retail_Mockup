@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aleck</sys_created_by>
+        <sys_created_on>2018-08-24 23:42:36</sys_created_on>
+        <sys_id>b47cdb36db046b408625f2b6ae96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_itom_retail_printer.x_snc_itom_retail.retail_user</sys_name>
+        <sys_package display_value="ITOM Retail" source="x_snc_itom_retail">44065b3edbc06b408625f2b6ae9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITOM Retail">44065b3edbc06b408625f2b6ae9619c4</sys_scope>
+        <sys_security_acl display_value="x_snc_itom_retail_printer">347c9736db046b408625f2b6ae961946</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b47cdb36db046b408625f2b6ae96190d</sys_update_name>
+        <sys_updated_by>aleck</sys_updated_by>
+        <sys_updated_on>2018-08-24 23:42:36</sys_updated_on>
+        <sys_user_role display_value="x_snc_itom_retail.retail_user" name="x_snc_itom_retail.retail_user">fda95372db046b408625f2b6ae9619a1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

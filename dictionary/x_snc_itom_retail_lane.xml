@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_snc_itom_retail_cmdb_ci_retail" label="Lane" max_length="40" name="x_snc_itom_retail_lane" sizeclass="2" type="collection"/>
+</database>

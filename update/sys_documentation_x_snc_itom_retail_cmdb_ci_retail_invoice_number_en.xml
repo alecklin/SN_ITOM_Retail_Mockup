@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="invoice_number" label="Invoice number" language="en" table="x_snc_itom_retail_cmdb_ci_retail">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>invoice_number</element>
+            <help/>
+            <hint/>
+            <label>Invoice number</label>
+            <language>en</language>
+            <name>x_snc_itom_retail_cmdb_ci_retail</name>
+            <plural>Invoice numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>aleck</sys_created_by>
+            <sys_created_on>2018-08-24 23:30:26</sys_created_on>
+            <sys_id>fea91772db046b408625f2b6ae96195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Invoice number</sys_name>
+            <sys_package display_value="ITOM Retail" source="x_snc_itom_retail">44065b3edbc06b408625f2b6ae9619c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITOM Retail">44065b3edbc06b408625f2b6ae9619c4</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_itom_retail_cmdb_ci_retail_invoice_number_en</sys_update_name>
+            <sys_updated_by>aleck</sys_updated_by>
+            <sys_updated_on>2018-08-24 23:30:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

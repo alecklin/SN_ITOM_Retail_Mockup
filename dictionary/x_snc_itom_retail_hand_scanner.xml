@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_snc_itom_retail_peripheral" label="Hand Scanner" max_length="40" name="x_snc_itom_retail_hand_scanner" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Lane" max_length="32" name="lane" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store" max_length="32" name="store" type="string"/>
+    </element>
+</database>

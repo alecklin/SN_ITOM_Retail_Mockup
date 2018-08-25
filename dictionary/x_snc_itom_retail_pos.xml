@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="POS" max_length="40" name="x_snc_itom_retail_pos" sizeclass="1" type="collection">
+        <element label="Lane" max_length="40" name="lane" type="string"/>
+        <element label="Store" max_length="40" name="store" type="string"/>
+    </element>
+</database>

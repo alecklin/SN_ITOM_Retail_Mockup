@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Pinpad</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pinpad</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">d8243bf714211300651763392430a4a3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>aleck</sys_created_by>
+        <sys_created_on>2018-08-24 23:38:14</sys_created_on>
+        <sys_id>387b97f2db046b408625f2b6ae9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pinpad</sys_name>
+        <sys_package display_value="ITOM Retail" source="x_snc_itom_retail">44065b3edbc06b408625f2b6ae9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITOM Retail">44065b3edbc06b408625f2b6ae9619c4</sys_scope>
+        <sys_update_name>sys_wizard_answer_387b97f2db046b408625f2b6ae9619b7</sys_update_name>
+        <sys_updated_by>aleck</sys_updated_by>
+        <sys_updated_on>2018-08-24 23:38:14</sys_updated_on>
+        <table/>
+        <target_url>x_snc_itom_retail_pinpad.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
